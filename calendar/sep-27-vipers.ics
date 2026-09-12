@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thunder Strikers//Fall 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Thunder Strikers vs Monsignor Slade Green Vipers
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:sep-27-vipers@thunderstrikersc.github.io
+DTSTAMP:20260910T212013Z
+DTSTART;TZID=America/New_York:20260927T133000
+DTEND;TZID=America/New_York:20260927T153000
+SUMMARY:Thunder Strikers vs Monsignor Slade Green Vipers
+LOCATION:Tanyard Springs Park\, 7180 Heritage Crossing\, Glen Burnie\, MD 21060
+DESCRIPTION:Kickoff: 2:00 PM. Arrival: 1:30 PM.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

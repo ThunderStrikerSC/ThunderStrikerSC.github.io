@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thunder Strikers//Fall 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Thunder Strikers vs Monsignor Slade Green Vipers
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:sep-18-vipers@thunderstrikersc.github.io
+DTSTAMP:20260910T212013Z
+DTSTART;TZID=America/New_York:20260918T200000
+DTEND;TZID=America/New_York:20260918T220000
+SUMMARY:Thunder Strikers vs Monsignor Slade Green Vipers
+LOCATION:Broadneck Park\, 613 College Parkway\, Annapolis\, MD 21409
+DESCRIPTION:Kickoff: 8:30 PM. Arrival: 8:00 PM.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thunder Strikers//Fall 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Thunder Strikers vs ASC Fitzpatrick
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:oct-16-asc@thunderstrikersc.github.io
+DTSTAMP:20260910T212013Z
+DTSTART;TZID=America/New_York:20261016T180000
+DTEND;TZID=America/New_York:20261016T200000
+SUMMARY:Thunder Strikers vs ASC Fitzpatrick
+LOCATION:Generals Highway Corridor Park\, 1758 Crownsville Road\, Annapolis\, MD 21401
+DESCRIPTION:Kickoff: 6:30 PM. Arrival: 6:00 PM.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
