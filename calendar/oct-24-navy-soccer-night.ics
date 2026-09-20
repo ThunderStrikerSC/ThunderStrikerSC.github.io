@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thunder Strikers//Navy Soccer Night//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20261024-navy-soccer-night@thunderstrikersc.github.io
+DTSTAMP:20260920T020000Z
+DTSTART;TZID=America/New_York:20261024T200000
+DTEND;TZID=America/New_York:20261024T220000
+SUMMARY:Thunder Strikers Team Outing - Navy vs Loyola
+LOCATION:Glenn Warner Soccer Facility, Annapolis, MD
+DESCRIPTION:Thunder Strikers family team outing. Navy men's soccer vs Loyola. Kickoff at 8:00 PM. Optional family event; siblings, grandparents and friends are welcome. Tickets are free.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
