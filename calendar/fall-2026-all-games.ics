@@ -1,88 +1,88 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Thunder Strikers//Fall 2026//EN
+PRODID:-//Thunder Strikers//Fall 2026 Schedule//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Thunder Strikers Fall 2026
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:sep-11-wolfpack@thunderstrikersc.github.io
-DTSTAMP:20260910T212013Z
+UID:deb7f2ae-9f55-4002-88c8-ef53f32d39c9@thunderstrikersc.github.io
+DTSTAMP:20261016T123325Z
 DTSTART;TZID=America/New_York:20260911T180000
 DTEND;TZID=America/New_York:20260911T200000
 SUMMARY:Thunder Strikers vs SAC U12B Wolfpack
-LOCATION:Severn Danza Park\, 726 Donaldson Ave\, Severn\, MD 21144
-DESCRIPTION:Kickoff: 6:30 PM. Arrival: 6:00 PM.
+LOCATION:Severn Danza Park | 726 Donaldson Ave\, Severn\, MD 21144
+DESCRIPTION:Kickoff: 6:30 PM. Arrival: 6:00 PM (30 minutes before kickoff).
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sep-18-vipers@thunderstrikersc.github.io
-DTSTAMP:20260910T212013Z
+UID:1015b8ca-18ca-4415-a507-930aa47246ab@thunderstrikersc.github.io
+DTSTAMP:20261016T123325Z
 DTSTART;TZID=America/New_York:20260918T200000
 DTEND;TZID=America/New_York:20260918T220000
 SUMMARY:Thunder Strikers vs Monsignor Slade Green Vipers
-LOCATION:Broadneck Park\, 613 College Parkway\, Annapolis\, MD 21409
-DESCRIPTION:Kickoff: 8:30 PM. Arrival: 8:00 PM.
+LOCATION:Broadneck Park | 613 College Parkway\, Annapolis\, MD 21409
+DESCRIPTION:Kickoff: 8:30 PM. Arrival: 8:00 PM (30 minutes before kickoff).
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sep-25-jpyo@thunderstrikersc.github.io
-DTSTAMP:20260910T212013Z
+UID:97de8fe3-bc8c-4815-84eb-755fa4828d76@thunderstrikersc.github.io
+DTSTAMP:20261016T123325Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Thunder Strikers vs JPYO Jackson
-LOCATION:Severn Danza Park\, 726 Donaldson Ave\, Severn\, MD 21144
-DESCRIPTION:Kickoff: 7:30 PM. Arrival: 7:00 PM.
+LOCATION:Severn Danza Park | 726 Donaldson Ave\, Severn\, MD 21144
+DESCRIPTION:Kickoff: 7:30 PM. Arrival: 7:00 PM (30 minutes before kickoff).
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sep-27-vipers@thunderstrikersc.github.io
-DTSTAMP:20260910T212013Z
-DTSTART;TZID=America/New_York:20260927T133000
-DTEND;TZID=America/New_York:20260927T153000
-SUMMARY:Thunder Strikers vs Monsignor Slade Green Vipers
-LOCATION:Tanyard Springs Park\, 7180 Heritage Crossing\, Glen Burnie\, MD 21060
-DESCRIPTION:Kickoff: 2:00 PM. Arrival: 1:30 PM.
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:oct-02-bpyaa@thunderstrikersc.github.io
-DTSTAMP:20260910T212013Z
+UID:6b20a748-90f2-4688-b4b9-30a33b979982@thunderstrikersc.github.io
+DTSTAMP:20261016T123325Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Thunder Strikers vs BPYAA Cajilima
-LOCATION:North Glen Park\, 1391 Gordon Drive\, Glen Burnie\, MD 21061
-DESCRIPTION:Kickoff: 7:30 PM. Arrival: 7:00 PM.
+LOCATION:North Glen Park | 1391 Gordon Drive\, Glen Burnie\, MD 21061
+DESCRIPTION:Kickoff: 7:30 PM. Arrival: 7:00 PM (30 minutes before kickoff).
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:oct-16-asc@thunderstrikersc.github.io
-DTSTAMP:20260910T212013Z
+UID:f9f7ad0b-2075-444f-adbe-e659e533a246@thunderstrikersc.github.io
+DTSTAMP:20261016T123325Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T200000
 SUMMARY:Thunder Strikers vs ASC Fitzpatrick
-LOCATION:Generals Highway Corridor Park\, 1758 Crownsville Road\, Annapolis\, MD 21401
-DESCRIPTION:Kickoff: 6:30 PM. Arrival: 6:00 PM.
+LOCATION:Generals Highway Corridor Park | 1758 Crownsville Road\, Annapolis\, MD 21401
+DESCRIPTION:Kickoff: 6:30 PM. Arrival: 6:00 PM (30 minutes before kickoff).
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:oct-23-asa@thunderstrikersc.github.io
-DTSTAMP:20260910T212013Z
+UID:456971d8-688a-4a74-ae1e-b456a2f4c61b@thunderstrikersc.github.io
+DTSTAMP:20261016T123325Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Thunder Strikers vs ASA BU12 Blues
-LOCATION:Tanyard Springs Park\, 7180 Heritage Crossing\, Glen Burnie\, MD 21060
-DESCRIPTION:Kickoff: 7:30 PM. Arrival: 7:00 PM.
+LOCATION:Tanyard Springs Park | 7180 Heritage Crossing\, Glen Burnie\, MD 21060
+DESCRIPTION:Kickoff: 7:30 PM. Arrival: 7:00 PM (30 minutes before kickoff).
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:nov-06-wolfpack@thunderstrikersc.github.io
-DTSTAMP:20260910T212013Z
+UID:39159150-ab69-4a23-a68b-682349f60eff@thunderstrikersc.github.io
+DTSTAMP:20261016T123325Z
+DTSTART;TZID=America/New_York:20261025T133000
+DTEND;TZID=America/New_York:20261025T153000
+SUMMARY:Thunder Strikers Makeup Game vs Monsignor Slade Green Vipers
+LOCATION:Tanyard Springs Park | 7180 Heritage Crossing\, Glen Burnie\, MD 21060
+DESCRIPTION:Makeup game. Kickoff: 2:00 PM. Arrival: 1:30 PM (30 minutes before kickoff).
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4b14ee34-54cb-4c58-8a6d-51e364170430@thunderstrikersc.github.io
+DTSTAMP:20261016T123325Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T200000
 SUMMARY:Thunder Strikers vs SAC U12B Wolfpack
-LOCATION:Severn Danza Park\, 726 Donaldson Ave\, Severn\, MD 21144
-DESCRIPTION:Kickoff: 6:30 PM. Arrival: 6:00 PM.
+LOCATION:Severn Danza Park | 726 Donaldson Ave\, Severn\, MD 21144
+DESCRIPTION:Kickoff: 6:30 PM. Arrival: 6:00 PM (30 minutes before kickoff).
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

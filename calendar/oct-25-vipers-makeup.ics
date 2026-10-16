@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thunder Strikers//Fall 2026 Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Thunder Strikers Fall 2026
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:f1d00727-6906-4c53-8ab8-c7ffdface4b6@thunderstrikersc.github.io
+DTSTAMP:20261016T123325Z
+DTSTART;TZID=America/New_York:20261025T133000
+DTEND;TZID=America/New_York:20261025T153000
+SUMMARY:Thunder Strikers Makeup Game vs Monsignor Slade Green Vipers
+LOCATION:Tanyard Springs Park | 7180 Heritage Crossing\, Glen Burnie\, MD 21060
+DESCRIPTION:Makeup game. Kickoff: 2:00 PM. Arrival: 1:30 PM (30 minutes before kickoff).
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
